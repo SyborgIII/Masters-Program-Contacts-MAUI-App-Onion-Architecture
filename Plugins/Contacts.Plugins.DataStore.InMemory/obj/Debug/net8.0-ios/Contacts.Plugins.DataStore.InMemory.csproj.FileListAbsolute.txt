@@ -1,0 +1,48 @@
+C:\Users\simon\Visual Studio Projects\Contacts\Plugins\Contacts.Plugins.DataStore.InMemory\bin\Debug\net8.0-ios\Contacts.Plugins.DataStore.InMemory.dll
+C:\Users\simon\Visual Studio Projects\Contacts\Plugins\Contacts.Plugins.DataStore.InMemory\bin\Debug\net8.0-ios\Contacts.Plugins.DataStore.InMemory.pdb
+C:\Users\simon\Visual Studio Projects\Contacts\Plugins\Contacts.Plugins.DataStore.InMemory\bin\Debug\net8.0-ios\Contacts.CoreBuisness.dll
+C:\Users\simon\Visual Studio Projects\Contacts\Plugins\Contacts.Plugins.DataStore.InMemory\bin\Debug\net8.0-ios\Contacts.UseCases.dll
+C:\Users\simon\Visual Studio Projects\Contacts\Plugins\Contacts.Plugins.DataStore.InMemory\bin\Debug\net8.0-ios\Contacts.CoreBuisness.pdb
+C:\Users\simon\Visual Studio Projects\Contacts\Plugins\Contacts.Plugins.DataStore.InMemory\bin\Debug\net8.0-ios\Contacts.UseCases.pdb
+C:\Users\simon\Visual Studio Projects\Contacts\Plugins\Contacts.Plugins.DataStore.InMemory\obj\Debug\net8.0-ios\actool\_PartialAppManifest.items
+C:\Users\simon\Visual Studio Projects\Contacts\Plugins\Contacts.Plugins.DataStore.InMemory\obj\Debug\net8.0-ios\actool\_BundleResourceWithLogicalName.items
+C:\Users\simon\Visual Studio Projects\Contacts\Plugins\Contacts.Plugins.DataStore.InMemory\obj\Debug\net8.0-ios\actool\_ProcessedImageAssetsPath.items
+C:\Users\simon\Visual Studio Projects\Contacts\Plugins\Contacts.Plugins.DataStore.InMemory\obj\Debug\net8.0-ios\coremlc\_PartialAppManifest.items
+C:\Users\simon\Visual Studio Projects\Contacts\Plugins\Contacts.Plugins.DataStore.InMemory\obj\Debug\net8.0-ios\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\simon\Visual Studio Projects\Contacts\Plugins\Contacts.Plugins.DataStore.InMemory\obj\Debug\net8.0-ios\coremlc\_ProcessedCoreMLModelsPath.items
+C:\Users\simon\Visual Studio Projects\Contacts\Plugins\Contacts.Plugins.DataStore.InMemory\obj\Debug\net8.0-ios\_ProcessedBundleResourcesPath.items
+C:\Users\simon\Visual Studio Projects\Contacts\Plugins\Contacts.Plugins.DataStore.InMemory\obj\Debug\net8.0-ios\_ProcessedContentPath.items
+C:\Users\simon\Visual Studio Projects\Contacts\Plugins\Contacts.Plugins.DataStore.InMemory\obj\Debug\net8.0-ios\Contacts.Plugins.DataStore.InMemory.csproj.AssemblyReference.cache
+C:\Users\simon\Visual Studio Projects\Contacts\Plugins\Contacts.Plugins.DataStore.InMemory\obj\Debug\net8.0-ios\Contacts.Plugins.DataStore.InMemory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simon\Visual Studio Projects\Contacts\Plugins\Contacts.Plugins.DataStore.InMemory\obj\Debug\net8.0-ios\Contacts.Plugins.DataStore.InMemory.AssemblyInfoInputs.cache
+C:\Users\simon\Visual Studio Projects\Contacts\Plugins\Contacts.Plugins.DataStore.InMemory\obj\Debug\net8.0-ios\Contacts.Plugins.DataStore.InMemory.AssemblyInfo.cs
+C:\Users\simon\Visual Studio Projects\Contacts\Plugins\Contacts.Plugins.DataStore.InMemory\obj\Debug\net8.0-ios\Contacts.Plugins.DataStore.InMemory.csproj.CoreCompileInputs.cache
+C:\Users\simon\Visual Studio Projects\Contacts\Plugins\Contacts.Plugins.DataStore.InMemory\obj\Debug\net8.0-ios\Contacts.Plugins.DataStore.InMemory.csproj.CopyComplete
+C:\Users\simon\Visual Studio Projects\Contacts\Plugins\Contacts.Plugins.DataStore.InMemory\obj\Debug\net8.0-ios\Contacts.Plugins.DataStore.InMemory.dll
+C:\Users\simon\Visual Studio Projects\Contacts\Plugins\Contacts.Plugins.DataStore.InMemory\obj\Debug\net8.0-ios\refint\Contacts.Plugins.DataStore.InMemory.dll
+C:\Users\simon\Visual Studio Projects\Contacts\Plugins\Contacts.Plugins.DataStore.InMemory\obj\Debug\net8.0-ios\Contacts.Plugins.DataStore.InMemory.pdb
+C:\Users\simon\Visual Studio Projects\Contacts\Plugins\Contacts.Plugins.DataStore.InMemory\obj\Debug\net8.0-ios\ref\Contacts.Plugins.DataStore.InMemory.dll
+C:\Users\simon\source\repos\Contacts\Plugins\Contacts.Plugins.DataStore.InMemory\bin\Debug\net8.0-ios\Contacts.Plugins.DataStore.InMemory.dll
+C:\Users\simon\source\repos\Contacts\Plugins\Contacts.Plugins.DataStore.InMemory\bin\Debug\net8.0-ios\Contacts.Plugins.DataStore.InMemory.pdb
+C:\Users\simon\source\repos\Contacts\Plugins\Contacts.Plugins.DataStore.InMemory\bin\Debug\net8.0-ios\Contacts.CoreBuisness.dll
+C:\Users\simon\source\repos\Contacts\Plugins\Contacts.Plugins.DataStore.InMemory\bin\Debug\net8.0-ios\Contacts.UseCases.dll
+C:\Users\simon\source\repos\Contacts\Plugins\Contacts.Plugins.DataStore.InMemory\bin\Debug\net8.0-ios\Contacts.CoreBuisness.pdb
+C:\Users\simon\source\repos\Contacts\Plugins\Contacts.Plugins.DataStore.InMemory\bin\Debug\net8.0-ios\Contacts.UseCases.pdb
+C:\Users\simon\source\repos\Contacts\Plugins\Contacts.Plugins.DataStore.InMemory\obj\Debug\net8.0-ios\actool\_PartialAppManifest.items
+C:\Users\simon\source\repos\Contacts\Plugins\Contacts.Plugins.DataStore.InMemory\obj\Debug\net8.0-ios\actool\_BundleResourceWithLogicalName.items
+C:\Users\simon\source\repos\Contacts\Plugins\Contacts.Plugins.DataStore.InMemory\obj\Debug\net8.0-ios\actool\_ProcessedImageAssetsPath.items
+C:\Users\simon\source\repos\Contacts\Plugins\Contacts.Plugins.DataStore.InMemory\obj\Debug\net8.0-ios\coremlc\_PartialAppManifest.items
+C:\Users\simon\source\repos\Contacts\Plugins\Contacts.Plugins.DataStore.InMemory\obj\Debug\net8.0-ios\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\simon\source\repos\Contacts\Plugins\Contacts.Plugins.DataStore.InMemory\obj\Debug\net8.0-ios\coremlc\_ProcessedCoreMLModelsPath.items
+C:\Users\simon\source\repos\Contacts\Plugins\Contacts.Plugins.DataStore.InMemory\obj\Debug\net8.0-ios\_ProcessedBundleResourcesPath.items
+C:\Users\simon\source\repos\Contacts\Plugins\Contacts.Plugins.DataStore.InMemory\obj\Debug\net8.0-ios\_ProcessedContentPath.items
+C:\Users\simon\source\repos\Contacts\Plugins\Contacts.Plugins.DataStore.InMemory\obj\Debug\net8.0-ios\Contacts.Plugins.DataStore.InMemory.csproj.AssemblyReference.cache
+C:\Users\simon\source\repos\Contacts\Plugins\Contacts.Plugins.DataStore.InMemory\obj\Debug\net8.0-ios\Contacts.Plugins.DataStore.InMemory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simon\source\repos\Contacts\Plugins\Contacts.Plugins.DataStore.InMemory\obj\Debug\net8.0-ios\Contacts.Plugins.DataStore.InMemory.AssemblyInfoInputs.cache
+C:\Users\simon\source\repos\Contacts\Plugins\Contacts.Plugins.DataStore.InMemory\obj\Debug\net8.0-ios\Contacts.Plugins.DataStore.InMemory.AssemblyInfo.cs
+C:\Users\simon\source\repos\Contacts\Plugins\Contacts.Plugins.DataStore.InMemory\obj\Debug\net8.0-ios\Contacts.Plugins.DataStore.InMemory.csproj.CoreCompileInputs.cache
+C:\Users\simon\source\repos\Contacts\Plugins\Contacts.Plugins.DataStore.InMemory\obj\Debug\net8.0-ios\Contacts.Plugins.DataStore.InMemory.csproj.CopyComplete
+C:\Users\simon\source\repos\Contacts\Plugins\Contacts.Plugins.DataStore.InMemory\obj\Debug\net8.0-ios\Contacts.Plugins.DataStore.InMemory.dll
+C:\Users\simon\source\repos\Contacts\Plugins\Contacts.Plugins.DataStore.InMemory\obj\Debug\net8.0-ios\refint\Contacts.Plugins.DataStore.InMemory.dll
+C:\Users\simon\source\repos\Contacts\Plugins\Contacts.Plugins.DataStore.InMemory\obj\Debug\net8.0-ios\Contacts.Plugins.DataStore.InMemory.pdb
+C:\Users\simon\source\repos\Contacts\Plugins\Contacts.Plugins.DataStore.InMemory\obj\Debug\net8.0-ios\ref\Contacts.Plugins.DataStore.InMemory.dll

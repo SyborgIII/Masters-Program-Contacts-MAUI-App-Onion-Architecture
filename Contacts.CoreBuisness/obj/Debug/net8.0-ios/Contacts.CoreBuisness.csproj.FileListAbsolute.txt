@@ -1,0 +1,38 @@
+C:\Users\simon\Visual Studio Projects\Contacts\Contacts.CoreBuisness\bin\Debug\net8.0-ios\Contacts.CoreBuisness.dll
+C:\Users\simon\Visual Studio Projects\Contacts\Contacts.CoreBuisness\bin\Debug\net8.0-ios\Contacts.CoreBuisness.pdb
+C:\Users\simon\Visual Studio Projects\Contacts\Contacts.CoreBuisness\obj\Debug\net8.0-ios\actool\_PartialAppManifest.items
+C:\Users\simon\Visual Studio Projects\Contacts\Contacts.CoreBuisness\obj\Debug\net8.0-ios\actool\_BundleResourceWithLogicalName.items
+C:\Users\simon\Visual Studio Projects\Contacts\Contacts.CoreBuisness\obj\Debug\net8.0-ios\actool\_ProcessedImageAssetsPath.items
+C:\Users\simon\Visual Studio Projects\Contacts\Contacts.CoreBuisness\obj\Debug\net8.0-ios\coremlc\_PartialAppManifest.items
+C:\Users\simon\Visual Studio Projects\Contacts\Contacts.CoreBuisness\obj\Debug\net8.0-ios\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\simon\Visual Studio Projects\Contacts\Contacts.CoreBuisness\obj\Debug\net8.0-ios\coremlc\_ProcessedCoreMLModelsPath.items
+C:\Users\simon\Visual Studio Projects\Contacts\Contacts.CoreBuisness\obj\Debug\net8.0-ios\_ProcessedBundleResourcesPath.items
+C:\Users\simon\Visual Studio Projects\Contacts\Contacts.CoreBuisness\obj\Debug\net8.0-ios\_ProcessedContentPath.items
+C:\Users\simon\Visual Studio Projects\Contacts\Contacts.CoreBuisness\obj\Debug\net8.0-ios\Contacts.CoreBuisness.csproj.AssemblyReference.cache
+C:\Users\simon\Visual Studio Projects\Contacts\Contacts.CoreBuisness\obj\Debug\net8.0-ios\Contacts.CoreBuisness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simon\Visual Studio Projects\Contacts\Contacts.CoreBuisness\obj\Debug\net8.0-ios\Contacts.CoreBuisness.AssemblyInfoInputs.cache
+C:\Users\simon\Visual Studio Projects\Contacts\Contacts.CoreBuisness\obj\Debug\net8.0-ios\Contacts.CoreBuisness.AssemblyInfo.cs
+C:\Users\simon\Visual Studio Projects\Contacts\Contacts.CoreBuisness\obj\Debug\net8.0-ios\Contacts.CoreBuisness.csproj.CoreCompileInputs.cache
+C:\Users\simon\Visual Studio Projects\Contacts\Contacts.CoreBuisness\obj\Debug\net8.0-ios\Contacts.CoreBuisness.dll
+C:\Users\simon\Visual Studio Projects\Contacts\Contacts.CoreBuisness\obj\Debug\net8.0-ios\refint\Contacts.CoreBuisness.dll
+C:\Users\simon\Visual Studio Projects\Contacts\Contacts.CoreBuisness\obj\Debug\net8.0-ios\Contacts.CoreBuisness.pdb
+C:\Users\simon\Visual Studio Projects\Contacts\Contacts.CoreBuisness\obj\Debug\net8.0-ios\ref\Contacts.CoreBuisness.dll
+C:\Users\simon\source\repos\Contacts\Contacts.CoreBuisness\bin\Debug\net8.0-ios\Contacts.CoreBuisness.dll
+C:\Users\simon\source\repos\Contacts\Contacts.CoreBuisness\bin\Debug\net8.0-ios\Contacts.CoreBuisness.pdb
+C:\Users\simon\source\repos\Contacts\Contacts.CoreBuisness\obj\Debug\net8.0-ios\actool\_PartialAppManifest.items
+C:\Users\simon\source\repos\Contacts\Contacts.CoreBuisness\obj\Debug\net8.0-ios\actool\_BundleResourceWithLogicalName.items
+C:\Users\simon\source\repos\Contacts\Contacts.CoreBuisness\obj\Debug\net8.0-ios\actool\_ProcessedImageAssetsPath.items
+C:\Users\simon\source\repos\Contacts\Contacts.CoreBuisness\obj\Debug\net8.0-ios\coremlc\_PartialAppManifest.items
+C:\Users\simon\source\repos\Contacts\Contacts.CoreBuisness\obj\Debug\net8.0-ios\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\simon\source\repos\Contacts\Contacts.CoreBuisness\obj\Debug\net8.0-ios\coremlc\_ProcessedCoreMLModelsPath.items
+C:\Users\simon\source\repos\Contacts\Contacts.CoreBuisness\obj\Debug\net8.0-ios\_ProcessedBundleResourcesPath.items
+C:\Users\simon\source\repos\Contacts\Contacts.CoreBuisness\obj\Debug\net8.0-ios\_ProcessedContentPath.items
+C:\Users\simon\source\repos\Contacts\Contacts.CoreBuisness\obj\Debug\net8.0-ios\Contacts.CoreBuisness.csproj.AssemblyReference.cache
+C:\Users\simon\source\repos\Contacts\Contacts.CoreBuisness\obj\Debug\net8.0-ios\Contacts.CoreBuisness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simon\source\repos\Contacts\Contacts.CoreBuisness\obj\Debug\net8.0-ios\Contacts.CoreBuisness.AssemblyInfoInputs.cache
+C:\Users\simon\source\repos\Contacts\Contacts.CoreBuisness\obj\Debug\net8.0-ios\Contacts.CoreBuisness.AssemblyInfo.cs
+C:\Users\simon\source\repos\Contacts\Contacts.CoreBuisness\obj\Debug\net8.0-ios\Contacts.CoreBuisness.csproj.CoreCompileInputs.cache
+C:\Users\simon\source\repos\Contacts\Contacts.CoreBuisness\obj\Debug\net8.0-ios\Contacts.CoreBuisness.dll
+C:\Users\simon\source\repos\Contacts\Contacts.CoreBuisness\obj\Debug\net8.0-ios\refint\Contacts.CoreBuisness.dll
+C:\Users\simon\source\repos\Contacts\Contacts.CoreBuisness\obj\Debug\net8.0-ios\Contacts.CoreBuisness.pdb
+C:\Users\simon\source\repos\Contacts\Contacts.CoreBuisness\obj\Debug\net8.0-ios\ref\Contacts.CoreBuisness.dll

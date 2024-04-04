@@ -1,0 +1,24 @@
+C:\Users\simon\Visual Studio Projects\Contacts\Contacts.CoreBuisness\bin\Debug\net8.0-windows10.0.19041.0\Contacts.CoreBuisness.deps.json
+C:\Users\simon\Visual Studio Projects\Contacts\Contacts.CoreBuisness\bin\Debug\net8.0-windows10.0.19041.0\Contacts.CoreBuisness.dll
+C:\Users\simon\Visual Studio Projects\Contacts\Contacts.CoreBuisness\bin\Debug\net8.0-windows10.0.19041.0\Contacts.CoreBuisness.pdb
+C:\Users\simon\Visual Studio Projects\Contacts\Contacts.CoreBuisness\obj\Debug\net8.0-windows10.0.19041.0\Contacts.CoreBuisness.csproj.AssemblyReference.cache
+C:\Users\simon\Visual Studio Projects\Contacts\Contacts.CoreBuisness\obj\Debug\net8.0-windows10.0.19041.0\Contacts.CoreBuisness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simon\Visual Studio Projects\Contacts\Contacts.CoreBuisness\obj\Debug\net8.0-windows10.0.19041.0\Contacts.CoreBuisness.AssemblyInfoInputs.cache
+C:\Users\simon\Visual Studio Projects\Contacts\Contacts.CoreBuisness\obj\Debug\net8.0-windows10.0.19041.0\Contacts.CoreBuisness.AssemblyInfo.cs
+C:\Users\simon\Visual Studio Projects\Contacts\Contacts.CoreBuisness\obj\Debug\net8.0-windows10.0.19041.0\Contacts.CoreBuisness.csproj.CoreCompileInputs.cache
+C:\Users\simon\Visual Studio Projects\Contacts\Contacts.CoreBuisness\obj\Debug\net8.0-windows10.0.19041.0\Contacts.CoreBuisness.dll
+C:\Users\simon\Visual Studio Projects\Contacts\Contacts.CoreBuisness\obj\Debug\net8.0-windows10.0.19041.0\refint\Contacts.CoreBuisness.dll
+C:\Users\simon\Visual Studio Projects\Contacts\Contacts.CoreBuisness\obj\Debug\net8.0-windows10.0.19041.0\Contacts.CoreBuisness.pdb
+C:\Users\simon\Visual Studio Projects\Contacts\Contacts.CoreBuisness\obj\Debug\net8.0-windows10.0.19041.0\ref\Contacts.CoreBuisness.dll
+C:\Users\simon\source\repos\Contacts\Contacts.CoreBuisness\bin\Debug\net8.0-windows10.0.19041.0\Contacts.CoreBuisness.deps.json
+C:\Users\simon\source\repos\Contacts\Contacts.CoreBuisness\bin\Debug\net8.0-windows10.0.19041.0\Contacts.CoreBuisness.dll
+C:\Users\simon\source\repos\Contacts\Contacts.CoreBuisness\bin\Debug\net8.0-windows10.0.19041.0\Contacts.CoreBuisness.pdb
+C:\Users\simon\source\repos\Contacts\Contacts.CoreBuisness\obj\Debug\net8.0-windows10.0.19041.0\Contacts.CoreBuisness.csproj.AssemblyReference.cache
+C:\Users\simon\source\repos\Contacts\Contacts.CoreBuisness\obj\Debug\net8.0-windows10.0.19041.0\Contacts.CoreBuisness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simon\source\repos\Contacts\Contacts.CoreBuisness\obj\Debug\net8.0-windows10.0.19041.0\Contacts.CoreBuisness.AssemblyInfoInputs.cache
+C:\Users\simon\source\repos\Contacts\Contacts.CoreBuisness\obj\Debug\net8.0-windows10.0.19041.0\Contacts.CoreBuisness.AssemblyInfo.cs
+C:\Users\simon\source\repos\Contacts\Contacts.CoreBuisness\obj\Debug\net8.0-windows10.0.19041.0\Contacts.CoreBuisness.csproj.CoreCompileInputs.cache
+C:\Users\simon\source\repos\Contacts\Contacts.CoreBuisness\obj\Debug\net8.0-windows10.0.19041.0\Contacts.CoreBuisness.dll
+C:\Users\simon\source\repos\Contacts\Contacts.CoreBuisness\obj\Debug\net8.0-windows10.0.19041.0\refint\Contacts.CoreBuisness.dll
+C:\Users\simon\source\repos\Contacts\Contacts.CoreBuisness\obj\Debug\net8.0-windows10.0.19041.0\Contacts.CoreBuisness.pdb
+C:\Users\simon\source\repos\Contacts\Contacts.CoreBuisness\obj\Debug\net8.0-windows10.0.19041.0\ref\Contacts.CoreBuisness.dll

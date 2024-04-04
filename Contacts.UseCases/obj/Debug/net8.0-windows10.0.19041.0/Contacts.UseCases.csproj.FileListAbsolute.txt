@@ -1,0 +1,30 @@
+C:\Users\simon\Visual Studio Projects\Contacts\Contacts.UseCases\bin\Debug\net8.0-windows10.0.19041.0\Contacts.UseCases.deps.json
+C:\Users\simon\Visual Studio Projects\Contacts\Contacts.UseCases\bin\Debug\net8.0-windows10.0.19041.0\Contacts.UseCases.dll
+C:\Users\simon\Visual Studio Projects\Contacts\Contacts.UseCases\bin\Debug\net8.0-windows10.0.19041.0\Contacts.UseCases.pdb
+C:\Users\simon\Visual Studio Projects\Contacts\Contacts.UseCases\bin\Debug\net8.0-windows10.0.19041.0\Contacts.CoreBuisness.dll
+C:\Users\simon\Visual Studio Projects\Contacts\Contacts.UseCases\bin\Debug\net8.0-windows10.0.19041.0\Contacts.CoreBuisness.pdb
+C:\Users\simon\Visual Studio Projects\Contacts\Contacts.UseCases\obj\Debug\net8.0-windows10.0.19041.0\Contacts.UseCases.csproj.AssemblyReference.cache
+C:\Users\simon\Visual Studio Projects\Contacts\Contacts.UseCases\obj\Debug\net8.0-windows10.0.19041.0\Contacts.UseCases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simon\Visual Studio Projects\Contacts\Contacts.UseCases\obj\Debug\net8.0-windows10.0.19041.0\Contacts.UseCases.AssemblyInfoInputs.cache
+C:\Users\simon\Visual Studio Projects\Contacts\Contacts.UseCases\obj\Debug\net8.0-windows10.0.19041.0\Contacts.UseCases.AssemblyInfo.cs
+C:\Users\simon\Visual Studio Projects\Contacts\Contacts.UseCases\obj\Debug\net8.0-windows10.0.19041.0\Contacts.UseCases.csproj.CoreCompileInputs.cache
+C:\Users\simon\Visual Studio Projects\Contacts\Contacts.UseCases\obj\Debug\net8.0-windows10.0.19041.0\Contacts.UseCases.csproj.CopyComplete
+C:\Users\simon\Visual Studio Projects\Contacts\Contacts.UseCases\obj\Debug\net8.0-windows10.0.19041.0\Contacts.UseCases.dll
+C:\Users\simon\Visual Studio Projects\Contacts\Contacts.UseCases\obj\Debug\net8.0-windows10.0.19041.0\refint\Contacts.UseCases.dll
+C:\Users\simon\Visual Studio Projects\Contacts\Contacts.UseCases\obj\Debug\net8.0-windows10.0.19041.0\Contacts.UseCases.pdb
+C:\Users\simon\Visual Studio Projects\Contacts\Contacts.UseCases\obj\Debug\net8.0-windows10.0.19041.0\ref\Contacts.UseCases.dll
+C:\Users\simon\source\repos\Contacts\Contacts.UseCases\bin\Debug\net8.0-windows10.0.19041.0\Contacts.UseCases.deps.json
+C:\Users\simon\source\repos\Contacts\Contacts.UseCases\bin\Debug\net8.0-windows10.0.19041.0\Contacts.UseCases.dll
+C:\Users\simon\source\repos\Contacts\Contacts.UseCases\bin\Debug\net8.0-windows10.0.19041.0\Contacts.UseCases.pdb
+C:\Users\simon\source\repos\Contacts\Contacts.UseCases\bin\Debug\net8.0-windows10.0.19041.0\Contacts.CoreBuisness.dll
+C:\Users\simon\source\repos\Contacts\Contacts.UseCases\bin\Debug\net8.0-windows10.0.19041.0\Contacts.CoreBuisness.pdb
+C:\Users\simon\source\repos\Contacts\Contacts.UseCases\obj\Debug\net8.0-windows10.0.19041.0\Contacts.UseCases.csproj.AssemblyReference.cache
+C:\Users\simon\source\repos\Contacts\Contacts.UseCases\obj\Debug\net8.0-windows10.0.19041.0\Contacts.UseCases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simon\source\repos\Contacts\Contacts.UseCases\obj\Debug\net8.0-windows10.0.19041.0\Contacts.UseCases.AssemblyInfoInputs.cache
+C:\Users\simon\source\repos\Contacts\Contacts.UseCases\obj\Debug\net8.0-windows10.0.19041.0\Contacts.UseCases.AssemblyInfo.cs
+C:\Users\simon\source\repos\Contacts\Contacts.UseCases\obj\Debug\net8.0-windows10.0.19041.0\Contacts.UseCases.csproj.CoreCompileInputs.cache
+C:\Users\simon\source\repos\Contacts\Contacts.UseCases\obj\Debug\net8.0-windows10.0.19041.0\Contacts.UseCases.csproj.CopyComplete
+C:\Users\simon\source\repos\Contacts\Contacts.UseCases\obj\Debug\net8.0-windows10.0.19041.0\Contacts.UseCases.dll
+C:\Users\simon\source\repos\Contacts\Contacts.UseCases\obj\Debug\net8.0-windows10.0.19041.0\refint\Contacts.UseCases.dll
+C:\Users\simon\source\repos\Contacts\Contacts.UseCases\obj\Debug\net8.0-windows10.0.19041.0\Contacts.UseCases.pdb
+C:\Users\simon\source\repos\Contacts\Contacts.UseCases\obj\Debug\net8.0-windows10.0.19041.0\ref\Contacts.UseCases.dll

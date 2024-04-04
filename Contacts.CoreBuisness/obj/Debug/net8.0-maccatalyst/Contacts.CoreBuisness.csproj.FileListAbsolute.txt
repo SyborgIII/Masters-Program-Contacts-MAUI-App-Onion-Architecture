@@ -1,0 +1,38 @@
+C:\Users\simon\Visual Studio Projects\Contacts\Contacts.CoreBuisness\bin\Debug\net8.0-maccatalyst\Contacts.CoreBuisness.dll
+C:\Users\simon\Visual Studio Projects\Contacts\Contacts.CoreBuisness\bin\Debug\net8.0-maccatalyst\Contacts.CoreBuisness.pdb
+C:\Users\simon\Visual Studio Projects\Contacts\Contacts.CoreBuisness\obj\Debug\net8.0-maccatalyst\actool\_PartialAppManifest.items
+C:\Users\simon\Visual Studio Projects\Contacts\Contacts.CoreBuisness\obj\Debug\net8.0-maccatalyst\actool\_BundleResourceWithLogicalName.items
+C:\Users\simon\Visual Studio Projects\Contacts\Contacts.CoreBuisness\obj\Debug\net8.0-maccatalyst\actool\_ProcessedImageAssetsPath.items
+C:\Users\simon\Visual Studio Projects\Contacts\Contacts.CoreBuisness\obj\Debug\net8.0-maccatalyst\coremlc\_PartialAppManifest.items
+C:\Users\simon\Visual Studio Projects\Contacts\Contacts.CoreBuisness\obj\Debug\net8.0-maccatalyst\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\simon\Visual Studio Projects\Contacts\Contacts.CoreBuisness\obj\Debug\net8.0-maccatalyst\coremlc\_ProcessedCoreMLModelsPath.items
+C:\Users\simon\Visual Studio Projects\Contacts\Contacts.CoreBuisness\obj\Debug\net8.0-maccatalyst\_ProcessedBundleResourcesPath.items
+C:\Users\simon\Visual Studio Projects\Contacts\Contacts.CoreBuisness\obj\Debug\net8.0-maccatalyst\_ProcessedContentPath.items
+C:\Users\simon\Visual Studio Projects\Contacts\Contacts.CoreBuisness\obj\Debug\net8.0-maccatalyst\Contacts.CoreBuisness.csproj.AssemblyReference.cache
+C:\Users\simon\Visual Studio Projects\Contacts\Contacts.CoreBuisness\obj\Debug\net8.0-maccatalyst\Contacts.CoreBuisness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simon\Visual Studio Projects\Contacts\Contacts.CoreBuisness\obj\Debug\net8.0-maccatalyst\Contacts.CoreBuisness.AssemblyInfoInputs.cache
+C:\Users\simon\Visual Studio Projects\Contacts\Contacts.CoreBuisness\obj\Debug\net8.0-maccatalyst\Contacts.CoreBuisness.AssemblyInfo.cs
+C:\Users\simon\Visual Studio Projects\Contacts\Contacts.CoreBuisness\obj\Debug\net8.0-maccatalyst\Contacts.CoreBuisness.csproj.CoreCompileInputs.cache
+C:\Users\simon\Visual Studio Projects\Contacts\Contacts.CoreBuisness\obj\Debug\net8.0-maccatalyst\Contacts.CoreBuisness.dll
+C:\Users\simon\Visual Studio Projects\Contacts\Contacts.CoreBuisness\obj\Debug\net8.0-maccatalyst\refint\Contacts.CoreBuisness.dll
+C:\Users\simon\Visual Studio Projects\Contacts\Contacts.CoreBuisness\obj\Debug\net8.0-maccatalyst\Contacts.CoreBuisness.pdb
+C:\Users\simon\Visual Studio Projects\Contacts\Contacts.CoreBuisness\obj\Debug\net8.0-maccatalyst\ref\Contacts.CoreBuisness.dll
+C:\Users\simon\source\repos\Contacts\Contacts.CoreBuisness\bin\Debug\net8.0-maccatalyst\Contacts.CoreBuisness.dll
+C:\Users\simon\source\repos\Contacts\Contacts.CoreBuisness\bin\Debug\net8.0-maccatalyst\Contacts.CoreBuisness.pdb
+C:\Users\simon\source\repos\Contacts\Contacts.CoreBuisness\obj\Debug\net8.0-maccatalyst\actool\_PartialAppManifest.items
+C:\Users\simon\source\repos\Contacts\Contacts.CoreBuisness\obj\Debug\net8.0-maccatalyst\actool\_BundleResourceWithLogicalName.items
+C:\Users\simon\source\repos\Contacts\Contacts.CoreBuisness\obj\Debug\net8.0-maccatalyst\actool\_ProcessedImageAssetsPath.items
+C:\Users\simon\source\repos\Contacts\Contacts.CoreBuisness\obj\Debug\net8.0-maccatalyst\coremlc\_PartialAppManifest.items
+C:\Users\simon\source\repos\Contacts\Contacts.CoreBuisness\obj\Debug\net8.0-maccatalyst\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\simon\source\repos\Contacts\Contacts.CoreBuisness\obj\Debug\net8.0-maccatalyst\coremlc\_ProcessedCoreMLModelsPath.items
+C:\Users\simon\source\repos\Contacts\Contacts.CoreBuisness\obj\Debug\net8.0-maccatalyst\_ProcessedBundleResourcesPath.items
+C:\Users\simon\source\repos\Contacts\Contacts.CoreBuisness\obj\Debug\net8.0-maccatalyst\_ProcessedContentPath.items
+C:\Users\simon\source\repos\Contacts\Contacts.CoreBuisness\obj\Debug\net8.0-maccatalyst\Contacts.CoreBuisness.csproj.AssemblyReference.cache
+C:\Users\simon\source\repos\Contacts\Contacts.CoreBuisness\obj\Debug\net8.0-maccatalyst\Contacts.CoreBuisness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simon\source\repos\Contacts\Contacts.CoreBuisness\obj\Debug\net8.0-maccatalyst\Contacts.CoreBuisness.AssemblyInfoInputs.cache
+C:\Users\simon\source\repos\Contacts\Contacts.CoreBuisness\obj\Debug\net8.0-maccatalyst\Contacts.CoreBuisness.AssemblyInfo.cs
+C:\Users\simon\source\repos\Contacts\Contacts.CoreBuisness\obj\Debug\net8.0-maccatalyst\Contacts.CoreBuisness.csproj.CoreCompileInputs.cache
+C:\Users\simon\source\repos\Contacts\Contacts.CoreBuisness\obj\Debug\net8.0-maccatalyst\Contacts.CoreBuisness.dll
+C:\Users\simon\source\repos\Contacts\Contacts.CoreBuisness\obj\Debug\net8.0-maccatalyst\refint\Contacts.CoreBuisness.dll
+C:\Users\simon\source\repos\Contacts\Contacts.CoreBuisness\obj\Debug\net8.0-maccatalyst\Contacts.CoreBuisness.pdb
+C:\Users\simon\source\repos\Contacts\Contacts.CoreBuisness\obj\Debug\net8.0-maccatalyst\ref\Contacts.CoreBuisness.dll
